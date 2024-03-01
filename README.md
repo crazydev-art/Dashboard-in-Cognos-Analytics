@@ -17,4 +17,3 @@ Upon completion of this lab, we will have gained proficiency in the following ta
 6. Filtering data in a dashboard:  filtering data within the dashboard, enabling them to tailor the analysis to specific criteria or segments of interest.
 
 
-<iframe src="https://eu1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2FAdvanced%2BDashboard&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000018dfab32275_00000002" width="320" height="200" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
