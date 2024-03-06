@@ -16,4 +16,5 @@ Upon completion of this lab, we will have gained proficiency in the following ta
 
 6. Filtering data in a dashboard:  filtering data within the dashboard, enabling them to tailor the analysis to specific criteria or segments of interest.
 
+![cognos](https://github.com/crazydev-art/Dashboard-in-Cognos-Analytics/assets/66042030/5c5f4ad0-03d2-4283-b039-093417d3069a)
 
